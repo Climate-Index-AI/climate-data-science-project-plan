@@ -1,12 +1,12 @@
-# Developing Algorithms for Climate Impact on Asset Pricing Using Research Data
+# Climate Economics Data Science
 
 ## Project Overview
 
 ### Title
-Developing Algorithms for Climate Impact on Asset Pricing Using Research Data
+Climate Economics Data Science
 
 ### Objective
-To develop and encode in Python deterministic and probabilistic algorithms that describe the causal relationship between climate change and asset pricing, using published research papers and associated datasets. The goal is to apply these algorithms to real use cases for commercial real estate assets, securities, and bonds, and generate actionable insights.
+Convert published research, and research data trails into deterministic and probabilistic algorithms and imputations relating to climate change and prediction of asset pricing. Encode those algorithms in Python. The goal is to apply these algorithms to real use cases for commercial real estate assets, securities, and bonds, given new independent variable inputs.
 
 ### Background
 With increasing climate variability, understanding the impact of climate on asset pricing is crucial for investors. This project leverages published research and datasets to create algorithms that can be applied to predict asset pricing based on climate change data.
@@ -17,13 +17,15 @@ With increasing climate variability, understanding the impact of climate on asse
 Climate change has a significant economic impact on commercial real estate (CRE) assets, investment portfolios, and capital markets, but little is yet known about how climate change affects the performance of these assets. This project aims to bridge this knowledge gap by converting research data trails into deterministic and probabilistic algorithms that describe the causal relationship between climate change and asset pricing.
 
 ### Deliverables
-- **Algorithms Encoded in Python**: Develop and encode deterministic and probabilistic algorithms from each research paper.
+For each research paper:
+- **Algorithms Encoded in Python**: Develop and encode deterministic and probabilistic algorithms from the research paper.
 - **Documentation of the Algorithms**: Comprehensive documentation detailing the algorithms, their functions, and how they relate to the research.
-- **List and Definitions of Dependent and Independent Variables**: Provide a detailed list and definitions of all dependent and independent variables used in each research paper.
+- **List and Definitions of Dependent and Independent Variables**: Provide a detailed list and definitions of all dependent and independent variables used in the research paper.
 
 ## Data Description
 
 ### Data Sources
+We will supply the necessary data and the research papers. The data sources include but are not limited to:
 1. PRISM Climate Data
 2. NCREIF Property Data
 3. Redfin Housing Market Data
@@ -82,8 +84,7 @@ The project will proceed one research paper at a time, with each paper being ful
 
 ## Next Steps
 
-Please fork this repository and spend 15-30 minutes writing up how you would approach this project, focusing on your methodology and any potential challenges you foresee. Submit your proposal by [specific date].
-
+Please fork this repository and spend **no more than 15-30 minutes** writing up how you would approach this project, focusing on your methodology and any potential challenges you foresee. Submit your proposal by Friday, August 9.
 
 ## Submission Instructions
 
