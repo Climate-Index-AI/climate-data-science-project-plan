@@ -116,13 +116,17 @@ focusing on your methodology and any potential challenges you foresee. Submit yo
 1. **Clone this repository**:
     - Clone the repository to your local machine using the command.
       ```bash
-      git clone https://github.com/original-owner/climate-impact-algorithms.git climate-impact-algorithms-proposal
+      git clone https://github.com/Climate-Index-AI/climate-economics-data-science.git climate-impact-algorithms-proposal
       ```
 
 2. **Create a new private repository**:
     - Create a new PRIVATE repository on your GitHub account. Name it as `climate-impact-algorithms-proposal`
 
 3. **Change the remote URL**:
+    - Navigate to the cloned repository folder:
+         ```bash
+         cd climate-impact-algorithms-proposal
+         ```
     - Change the remote URL of the cloned repository to your new private repository.
       ```bash
       git remote set-url origin <your private repo url>
@@ -141,8 +145,8 @@ focusing on your methodology and any potential challenges you foresee. Submit yo
 
 6. **Invite the repository owner**:
     - Go to your forked repository on GitHub.
-    - Click on "Settings" and then "Manage access" under the "Access" section.
-    - Invite the repository owner to your private repository by adding their GitHub username.
+    - Click on "Settings" and then "Collaborators" under the "Access" section.
+    - Invite the repository owner to your private repository by adding their GitHub username by clicking in the "Add people" button.
         - Owners GitHub username: `tom-mcmillan` and `vitorbarros`
 
 7. **Notify the repository owner**:
