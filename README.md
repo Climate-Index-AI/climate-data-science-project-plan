@@ -1,13 +1,13 @@
 # Climate Data Science Project Plan
 
 ## Project Overview
-Climate Index AI is conducting research project. We are looking for a Data Scientist to assist us. The role is part-time, contract based. The pay basis is $25.00 - $35.00 (USD) per hour. To apply for this role, please read the project description, write a brief summary of your approach (15-30min time spent writing) and submit it by Friday, August 9, in the following way:
+Climate Index AI is conducting research project. We are looking for a Data Scientist to assist us. The role is part-time, contract based. The pay basis is $25.00 - $35.00 (USD) per hour. The work will begin immiadely, and proceed for 1-3 month, or appx 5-10 research papers. To apply for this role, please read the project description, write a brief summary of your approach (15-30min time spent writing) and submit it by Friday, August 9, in the following way:
 
 ## Submission Instructions
 1. Create a new PRIVATE repository on your GitHub account. Name it as `climate-data-sience-project-proposal`
 2. Add your proposal, `proposal.md` with your write-up on how you would approach this project.
 3. Invite `tom-mcmillan` and `vitorbarros` to your repo.
-4. Email `tom@climateindex.ai`, and `vitor@climateindex.ai` with the subject "Climate Economics Data Science Project Proposal - [your name]" and include a link to your repository.
+4. Email `research@climateindex.ai` with the subject "[your name] - Climate Economics Data Science Project Proposal" and include a link to your repo.
 
 ## Project Description
 Convert published research, and research data trails, into deterministic and probabilistic algorithms and imputations relating to climate change and prediction of asset pricing. Encode those algorithms in Python.
