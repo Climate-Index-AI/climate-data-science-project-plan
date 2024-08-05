@@ -89,7 +89,7 @@ Please fork this repository and spend **no more than 15-30 minutes** writing up 
 ## Submission Instructions
 
 1. **Fork this repository**:
-   - Click on the "Fork" button at the top right corner of this page to create a copy of this repository on your GitHub account.
+   - Click on the "Fork" button in the top right corner of this page to create a copy of this repository on your GitHub account. Ensure that the forked repository is set to private.
 
 2. **Clone the forked repository**:
    - Clone the repository to your local machine using the command:
@@ -97,25 +97,22 @@ Please fork this repository and spend **no more than 15-30 minutes** writing up 
      git clone https://github.com/your-username/climate-impact-algorithms.git
      ```
 
-3. **Create a new branch**:
-   - Create a new branch for your proposal:
-     ```bash
-     git checkout -b your-branch-name
-     ```
-
-4. **Add your proposal**:
+3. **Add your proposal**:
    - Add a file named `proposal.md` with your write-up on how you would approach this project.
 
-5. **Commit and push your changes**:
+4. **Commit and push your changes**:
    - Commit your changes and push them to your forked repository:
      ```bash
      git add proposal.md
      git commit -m "Add project proposal"
-     git push origin your-branch-name
+     git push origin main
      ```
 
-6. **Create a Pull Request**:
+5. **Invite the repository owner**:
    - Go to your forked repository on GitHub.
-   - Click on the "Compare & pull request" button.
-   - Provide a title and description for your pull request.
-   - Click on "Create pull request" to submit your proposal.
+   - Click on "Settings" and then "Manage access" under the "Access" section.
+   - Invite the repository owner to your private repository by adding their GitHub username.
+     - Owners GitHub username: `tom-mcmillan` and `vitorbarros`
+
+6. **Notify the repository owner**:
+   - Once the repository owner has been invited, email `tom@climateindex.ai`, and `vitor@climateindex.ai` with the subject "Climate Economics Data Science Project Proposal - [your name]" and include a link to your forked repository.
