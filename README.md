@@ -1,32 +1,11 @@
-# Climate Economics Data Science
+# Climate Data Science
 
 ## Project Overview
-
-### Title
-
-Climate Economics Data Science
 
 ### Objective
 
 Convert published research, and research data trails into deterministic and probabilistic algorithms and imputations
-relating to climate change and prediction of asset pricing. Encode those algorithms in Python. The goal is to apply
-these algorithms to real use cases for commercial real estate assets, securities, and bonds, given new independent
-variable inputs.
-
-### Background
-
-With increasing climate variability, understanding the impact of climate on asset pricing is crucial for investors. This
-project leverages published research and datasets to create algorithms that can be applied to predict asset pricing
-based on climate change data.
-
-## Project Scope
-
-### Problem Statement
-
-Climate change has a significant economic impact on commercial real estate (CRE) assets, investment portfolios, and
-capital markets, but little is yet known about how climate change affects the performance of these assets. This project
-aims to bridge this knowledge gap by converting research data trails into deterministic and probabilistic algorithms
-that describe the causal relationship between climate change and asset pricing.
+relating to climate change and prediction of asset pricing. Encode those algorithms in Python. 
 
 ### Deliverables
 
